@@ -1,5 +1,7 @@
 {
   "name": "Localize",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
