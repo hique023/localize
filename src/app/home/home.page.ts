@@ -31,4 +31,9 @@ export class HomePage {
 
   }
 
+  public Clear() {
+    this.lat = null
+    this.log = null
+  }
+
 }
